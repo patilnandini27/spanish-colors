@@ -1,2 +1,2 @@
 # spanish-colors
-Colors with names in Spanish
+Simple site which shows colors and their names in spanish.
